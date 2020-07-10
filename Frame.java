@@ -1,7 +1,7 @@
 
 import java.awt.*;
 
-class MyFrameClass
+class MyFrameClassMain
 {
   public static void main(String gsar[]) throws java.io.IOException
   {
